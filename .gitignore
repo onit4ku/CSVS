@@ -49,3 +49,6 @@ local.properties
 
 
 exomeserver-web/bower_components/
+
+# Config file ignore, see config-example.js for details
+csvs-web/conf/config.js

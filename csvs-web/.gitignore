@@ -2,7 +2,3 @@ chrome-ext/
 node_modules/
 build/
 bower_components/
-
-
-# Config file ignore, see config-example.js for details
-conf/config.js
